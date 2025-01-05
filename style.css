@@ -1,0 +1,9 @@
+nav > a {
+    text-align: center;
+    margin-right: 40px;
+    padding: 3px;
+    text-decoration:underline;
+}
+a{
+    text-align: center;
+}
