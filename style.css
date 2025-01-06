@@ -1,9 +1,9 @@
-nav > a {
+td{
+    border: 3px solid blueviolet;
+    border-collapse: collapse;
     text-align: center;
-    margin-right: 40px;
-    padding: 3px;
-    text-decoration:underline;
+    padding: 5px;
 }
-a{
-    text-align: center;
+table{
+    border-collapse: collapse;
 }
