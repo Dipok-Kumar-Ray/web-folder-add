@@ -1,0 +1,20 @@
+tbody{
+    border-collapse: collapse;
+    
+}
+table{
+    background-color: forestgreen;
+    border-collapse: collapse;
+}
+td{
+    border: 3px solid blueviolet;
+     padding: 3px;
+}
+thead{
+    text-align: center;
+    font-weight: bolder;
+}
+body{
+    background-color: aquamarine;
+   margin: 150px;
+}

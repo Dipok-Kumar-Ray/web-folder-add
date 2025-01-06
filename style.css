@@ -7,3 +7,10 @@ td{
 table{
     border-collapse: collapse;
 }
+tfoot > tr > td {
+    text-align: left;
+}
+p > data {
+    text-decoration: underline;
+    margin-right: 20px;
+}
